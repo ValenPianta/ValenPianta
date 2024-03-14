@@ -1,9 +1,7 @@
 ### Hola! 👋
+### Soy Valentín Piantanida
 ---
-## Soy Valentín Piantanida
----
-### De __San Carlos de Bariloche__
-
-### Actualmente estudiando Ingeniería en Computación en la Universidad Nacional de Rio Negro.
+### Vivo en __San Carlos de Bariloche__
+### Y actualmente estoy estudiando Ingeniería en Computación, en la Universidad Nacional de Rio Negro.
 ---
 ![Badge](https://bit.ly/icom-badge)
